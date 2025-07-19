@@ -1,0 +1,80 @@
+/*body {
+    background: #eee;
+}
+
+#message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/*#message {
+    width: 400px;
+    background: #ddaaad;
+    padding: 20px;
+    padding: 20px;
+    font-family: calibri;
+    font-size: 18px;
+    color: #444;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #ff7777;
+    font-weight: bold;
+    opacity: 0;
+
+#message.show {
+    opacity: 1;
+}
+
+/* Set transitions up. */
+/*-webkit-transition: opacity 0.7s;
+-moz-transition: opacity 0.7s;
+transition: opacity 0.7;
+}
+
+#colour-changer {
+    width: 200px;
+    height: 100px;
+    margin: 30px auto;
+    border: 1px solid #000;
+    background: #fff;
+
+    -webkit-transition: background 0.7;
+    -moz-transition: background 0.7;
+    transition: background 0.7;
+}
+
+/* Button style */
+/*#show-more {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#show-more:hover {
+  background-color: #0056b3;
+}
+
+/* Content box - always visible */
+/*#content {
+  border: 2px solid #ccc;
+  padding: 10px;
+  width: 100%;
+  max-width: 600px;
+  background-color: #f9f9f9;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+  max-height: 60px; /* Initial visible part */
+/*}
+
+/* When expanded */
+/*#content.open {
+  max-height: 1000px; /* enough for full content */
+/*} 
